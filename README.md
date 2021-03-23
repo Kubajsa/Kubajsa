@@ -1,11 +1,11 @@
 # Hi there 👋
 
-![L2X9org](https://komarev.com/ghpvc/?username=Kubajsa)
+![Kubajsa](https://komarev.com/ghpvc/?username=Kubajsa)
 
 ### Some things about me:
 
 - 🔭 I’m currently working on [RandomTP](https://github.com/Kubajsa/randomTp)
-- 🌱 I’m currently learning **Java and Python**
+- 🌱 I’m currently learning **Java, Python and JavaScript**
 - 💧 I’m a spigotmc dev [spigotmc.org/members/kubajsa.598568/](https://www.spigotmc.org/members/kubajsa.598568/)
 - 📫 How to reach me: **Kubajsa#0843** (Discord)
 
