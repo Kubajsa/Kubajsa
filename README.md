@@ -10,6 +10,6 @@
 - 📫 How to reach me: **Kubajsa#0843** (Discord)
 - 🖥 My website: [jacobdev.tk](https://jacobdev.tk)
 
-![](https://raw.githubusercontent.com/Kubajsa/github-stats/b8f80c8c1f5a7783dd7b01f805f4c11e87fd4792/generated/languages.svg)
+![](https://raw.githubusercontent.com/Kubajsa/github-stats/master/generated/languages.svg)
 
-![](https://raw.githubusercontent.com/Kubajsa/github-stats/b8f80c8c1f5a7783dd7b01f805f4c11e87fd4792/generated/overview.svg)
+![](https://raw.githubusercontent.com/Kubajsa/github-stats/master/generated/overview.svg)
